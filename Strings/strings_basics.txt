@@ -1,0 +1,1 @@
+1. If string is empty then in Boolena its value will be false.

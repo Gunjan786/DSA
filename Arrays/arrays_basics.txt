@@ -1,0 +1,3 @@
+1. Arrays in python can be used with the help of array module. 
+	Ex : array.array('i', [1,2,3])
+2. Difference between list and arrays in python is that array can contain only homogeneous elements, if any different element is inserted then "Incompatible data types" exception is thrown.
